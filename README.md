@@ -1,5 +1,17 @@
 # Easy Github OAuth Server
 
+### 설치
+
+- `npm i`
+
+### 실행
+
+- `npm start`
+
+  - nodemon 기반
+
+- Server 주소 : `http://localhost:7007/`
+
 ### 05.14
 
 - OAuth 사용 전 로그인-회원가입, 로그인된 유저 바탕으로 Post 받기 제작
