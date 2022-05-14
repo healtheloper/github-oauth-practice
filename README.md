@@ -13,6 +13,3 @@
 
 - header 에 Authorization : 'token ~~' 을 넘겨줘야 사용가능
 - token ~~ 에 ~~ 는 회원가입-로그인 로직에서, 로그인 한 이후 response 로 받는 token 을 저장해서 headers 에 추가하여 보내면 됨
-
-참고 :
-https://github.com/boostcamp-2020/IssueTracker-35/wiki/GitHub-OAuth
